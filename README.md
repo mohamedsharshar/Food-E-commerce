@@ -10,14 +10,6 @@ Welcome to the **Food E-commerce Platform** repository! This project is a modern
 - **Vendor Portal**: Streamlined vendor management and inventory control.  
 - **Mobile Responsiveness**: Fully optimized for desktop, tablet, and mobile devices.  
 
-## 🎥 Demo Video  
-<p align="center">
-  <video width="600" controls>
-    <source src="Restaurant Website (Home)" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
-
 ## 🛠️ Tech Stack  
 - **Frontend**: React.js, Tailwind CSS  
 - **Backend**: Node.js, Express.js  
