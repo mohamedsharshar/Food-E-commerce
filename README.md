@@ -14,9 +14,8 @@ Welcome to the **Food E-commerce Platform** repository! This project is a modern
 https://github.com/user-attachments/assets/34e303e1-e50e-444b-99be-dfabb50523d3
 
 ## 🔧 Admin Panel  
- **Manage your entire platform efficiently!**  
-The Admin Panel provides a comprehensive dashboard for managing orders, products, users, and reports, giving you full control over the platform's operations.
 https://github.com/user-attachments/assets/66711feb-4953-46fc-b82c-6ec4184b5941
+The Admin Panel provides a comprehensive dashboard for managing orders, products, users, and reports, giving you full control over the platform's operations.
 
 ## 🌟 Admin Panel Features  
 - **Order Management**: View, edit, and track customer orders.  
