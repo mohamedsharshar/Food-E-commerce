@@ -10,17 +10,25 @@ Welcome to the **Food E-commerce Platform** repository! This project is a modern
 - **Vendor Portal**: Streamlined vendor management and inventory control.  
 - **Mobile Responsiveness**: Fully optimized for desktop, tablet, and mobile devices.
   
-## 🎥 Demo Video 
+## 🎥 Overview Video 
 https://github.com/user-attachments/assets/34e303e1-e50e-444b-99be-dfabb50523d3
 
-## 🛠️ Tech Stack  
-- **Frontend**: React.js, Tailwind CSS  
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB  
-- **Payment Integration**: Stripe/PayPal  
-- **APIs**: RESTful API architecture for seamless interaction.  
-- **Deployment**: Docker, AWS/GCP  
+## 🔧 Admin Panel  
+ **Manage your entire platform efficiently!**  
+The Admin Panel provides a comprehensive dashboard for managing orders, products, users, and reports, giving you full control over the platform's operations.
+https://github.com/user-attachments/assets/66711feb-4953-46fc-b82c-6ec4184b5941
 
+## 🌟 Admin Panel Features  
+- **Order Management**: View, edit, and track customer orders.  
+- **Product Management**: Add, update, or remove items from the catalog.  
+- **User Management**: Manage customer and vendor accounts.  
+- **Analytics Dashboard**: Visualize sales and platform performance.  
+
+## 🛠️ Tech Stack  
+- **Frontend**: HTML, CSS, JS, Bootstrap  
+- **Backend**: PHP  
+- **Database**: MYSQL
+  
 ## 🚀 How to Get Started  
 1. Clone the repository:  
    ```bash  
