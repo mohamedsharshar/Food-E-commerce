@@ -8,7 +8,10 @@ Welcome to the **Food E-commerce Platform** repository! This project is a modern
 - **Secure Payments**: Support for multiple payment gateways.  
 - **Real-Time Order Tracking**: Follow your order from preparation to delivery.  
 - **Vendor Portal**: Streamlined vendor management and inventory control.  
-- **Mobile Responsiveness**: Fully optimized for desktop, tablet, and mobile devices.  
+- **Mobile Responsiveness**: Fully optimized for desktop, tablet, and mobile devices.
+  
+## 🎥 Demo Video 
+https://github.com/user-attachments/assets/34e303e1-e50e-444b-99be-dfabb50523d3
 
 ## 🛠️ Tech Stack  
 - **Frontend**: React.js, Tailwind CSS  
