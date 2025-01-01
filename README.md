@@ -1,4 +1,3 @@
-```
 # 🍴 Food E-commerce Platform  
 
 Welcome to the **Food E-commerce Platform** repository! This project is a modern, user-friendly online marketplace for ordering groceries, meal kits, and restaurant-style food from the comfort of your home. It's built with scalability, seamless user experience, and efficient backend processes in mind.  
