@@ -9,9 +9,26 @@ Welcome to the **Food E-commerce Platform** repository! This project is a modern
 - **Real-Time Order Tracking**: Follow your order from preparation to delivery.  
 - **Vendor Portal**: Streamlined vendor management and inventory control.  
 - **Mobile Responsiveness**: Fully optimized for desktop, tablet, and mobile devices.
-  
+- **Two Graphical Interfaces (GUI)**: Developed using `Tkinter` in Python.  
+  - **First GUI**: Stores data in a MongoDB database.  
+  - **Second GUI**: Stores data in a Cassandra database.  
+  - Both GUIs are containerized using Docker for seamless deployment.  
+- **Order Placement**: Users can place orders through either application.  
+- **Tabbed Structure**:  
+  - **Customer Table**: Manage customer details.  
+  - **Order Table**: Track and update orders.  
+  - **Food Items Table**: Manage the food catalog.  
+  - **Payments Table**: Record and view payment transactions.
+    
 ## 🎥 Overview Video 
 https://github.com/user-attachments/assets/34e303e1-e50e-444b-99be-dfabb50523d3
+
+<p align="center">
+  <video width="600" controls>
+    <source src="[demo.mp4](https://github.com/user-attachments/assets/34e303e1-e50e-444b-99be-dfabb50523d3)" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
 
 ## 🔧 Admin Panel  
 https://github.com/user-attachments/assets/66711feb-4953-46fc-b82c-6ec4184b5941
